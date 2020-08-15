@@ -1,7 +1,6 @@
-# Python3-printAllFilesInDirectory
-How to print all files in a directory using Python3
+# How to print all files in a directory using Python3
 
-```
+```python
 import glob
 
 # Create list of all files in a directory and print them
