@@ -11,8 +11,6 @@ print(list)
 # Add files names to .txt file
 
 ```python
-# Matthew Torontali
-
 import glob
 
 # set list to all files in directory
