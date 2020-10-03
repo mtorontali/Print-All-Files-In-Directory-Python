@@ -8,7 +8,7 @@ list = glob.glob("/Users/USERNAME/testfolder/*")
 print(list)
 ```
 
-# Add files names to .txt files
+# Add files names to .txt file
 
 ```python
 # Matthew Torontali
